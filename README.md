@@ -3,6 +3,7 @@ This code is used to verify the inequalities presented on page 13 of [1].
 
 ## Authors
 Zipei Nie (niezipei@huawei.com)
+
 Hang Zhou (hzhou@lix.polytechnique.fr)
 
 ## License
