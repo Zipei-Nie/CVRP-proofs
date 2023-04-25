@@ -7,7 +7,7 @@ Zipei Nie (niezipei@huawei.com)
 Hang Zhou (hzhou@lix.polytechnique.fr)
 
 ## License
-This software is released under the MIT License. See LICENSE.txt for details.
+This software is released under the MIT License. See LICENSE for details.
 
 ## Dependencies
 This code requires the **`kv`** library (https://github.com/mskashi/kv) and the Boost library (https://www.boost.org/).
@@ -16,4 +16,4 @@ This code requires the **`kv`** library (https://github.com/mskashi/kv) and the 
 We would like to thank Masahide Kashiwagi for developing the **`kv`** library and making it available to the public.
 
 ## References
-[1] Z. Nie and H. Zhou. Euclidean Capacitated Vehicle Routing in Random Setting: A 1.55-Approximation Algorithm.
+[1] Z. Nie and H. Zhou. *Euclidean Capacitated Vehicle Routing in Random Setting: A 1.55-Approximation Algorithm.* [arXiv:2304.11281](https://arxiv.org/abs/2304.11281) (2023).
